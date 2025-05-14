@@ -1,9 +1,9 @@
 # Jogo de Adivinhação
 
-Jogo de Adivinhação
+
 Este é um simples jogo de adivinhação em Python onde o usuário tenta adivinhar um número aleatório gerado pelo computador entre 1 e 100. O jogo continua até que o usuário acerte o número, fornecendo dicas sobre se o número digitado é maior ou menor que o número gerado.
 
-Funcionalidades
+# Funcionalidades
 O computador gera um número aleatório entre 1 e 100.
 
 O jogador faz tentativas até acertar o número.
